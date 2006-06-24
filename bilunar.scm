@@ -292,7 +292,7 @@
   (- desired-excess-selene-phases excess-selene-phases))
 
 (define selene-deficit-with-centennary
-  (- selene-phase-deficit 0.01))
+  (- selene-phase-deficit 1/100))
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;
